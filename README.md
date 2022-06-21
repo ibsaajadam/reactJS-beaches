@@ -1,4 +1,43 @@
-# Getting Started with Create React App
+# Travel Booking React.js Front-End Website
+
+Site first designed with Figma then coded with React.js, CSS3, & React.js Icons. Deployed with Vercel.
+
+## Table of contents
+
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Live Demo](#live-demo)
+- [Link To Design](#design-file)
+- [Contact](#contact)
+- [Start Server](#start-server)
+
+## Screenshots
+
+<img src="src/assets/screenshot.png">
+
+
+## Technologies
+
+- Figma, React.js, CSS3, & React.js Icons. Deployed with Vercel.
+
+## Live Demo
+
+View live demo here: [Demo](https://react-js-beaches.vercel.app/)
+
+## Design File
+
+View Figma design file here: [Figma File](https://www.figma.com/file/O5QZah6IQZ4gYPafCV1BFl/Beaches-Project?node-id=0%3A1)
+
+## Contact
+
+Created by [Ibsaa J Adam](https://github.com/ibsaajadam) - feel free to contact on:
+You can find me also on:
+
+- [Linkedin](https://www.linkedin.com/in/ibsaajadam/)
+- [Github](https://github.com/ibsaajadam)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
